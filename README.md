@@ -1,15 +1,15 @@
 <div align="center">
 
 ```
-██████╗ ███████╗ █████╗ ██╗     ███╗   ███╗███████╗██████╗  ██████╗
-██╔══██╗██╔════╝██╔══██╗██║     ████╗ ████║██╔════╝╚════██╗██╔═████╗
-██████╔╝█████╗  ███████║██║     ██╔████╔██║███████╗ █████╔╝██║██╔██║
-██╔══██╗██╔══╝  ██╔══██║██║     ██║╚██╔╝██║╚════██║██╔═══╝ ████╔╝██║
-██║  ██║███████╗██║  ██║███████╗██║ ╚═╝ ██║███████║███████╗╚██████╔╝
-╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝╚══════╝╚══════╝ ╚═════╝
+ ██████╗ ██╗  ██╗██╗  ██╗██╗  ██╗██████╗ ██████╗ ██╗   ██╗
+██╔═████╗╚██╗██╔╝██║  ██║██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝
+██║██╔██║ ╚███╔╝ ███████║███████║██████╔╝██████╔╝ ╚████╔╝
+████╔╝██║ ██╔██╗ ██╔══██║╚════██║██╔══██╗██╔══██╗  ╚██╔╝
+╚██████╔╝██╔╝ ██╗██║  ██║     ██║██║  ██║██║  ██║   ██║
+ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Web3+Developer;%3E+Blockchain+Engineer;%3E+DeFi+Architect;%3E+Smart+Contract+Auditor;%3E+Decentralization+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+Web3+Developer;%3E+Blockchain+Engineer;%3E+High+Concurrency+Specialist;%3E+Distributed+Systems+Architect;%3E+Performance+Optimization+Expert" alt="Typing SVG" />
 
 ```
 ┌─[realm520@matrix]─[~/web3]
@@ -36,14 +36,15 @@ class Developer:
         self.domains = [
             "Blockchain Architecture",
             "Smart Contract Development",
+            "High Concurrency Network Programming",
             "DeFi Protocols",
-            "Zero-Knowledge Proofs"
+            "Distributed Systems"
         ]
 
     def get_current_status(self):
         return {
             "mode": "BUILDING",
-            "focus": "Web3 Infrastructure",
+            "focus": "High-Performance Web3 Infrastructure",
             "motto": "Code is law. Decentralization is freedom."
         }
 ```
@@ -65,19 +66,32 @@ class Developer:
 │ > Development Stack                       │
 ├────────────────────────────────────────────┤
 ```
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+
+```
+│ > High Concurrency & Network              │
+├────────────────────────────────────────────┤
+```
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=grpc&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
 ```
 │ > Infrastructure & Tools                  │
 ├────────────────────────────────────────────┤
 ```
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ```
 └────────────────────────────────────────────┘
